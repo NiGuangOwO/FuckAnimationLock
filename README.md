@@ -2,7 +2,7 @@
 ![最近版本号](https://img.shields.io/github/v/release/NiGuangOwO/FuckAnimationLock?style=for-the-badge)
 ![Github Latest Releases](https://img.shields.io/github/downloads/NiGuangOwO/FuckAnimationLock/latest/total.svg?style=for-the-badge)
 ![Github All Releases](https://img.shields.io/github/downloads/NiGuangOwO/FuckAnimationLock/total.svg?style=for-the-badge)   
-https://img.shields.io/github/v/release/NiGuangOwO/FuckAnimationLock
+
 一个可以自定义动画锁的插件
 
 通过此[仓库](https://github.com/NiGuangOwO/DalamudPlugins)地址安装：
