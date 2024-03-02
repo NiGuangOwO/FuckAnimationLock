@@ -7,3 +7,8 @@
 ```
 https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json
 ```
+
+## API9
+```
+https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/API9/pluginmaster.json
+```
